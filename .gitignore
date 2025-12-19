@@ -1,0 +1,6 @@
+*.txt
+*.log
+*.pcap
+*.cap
+.env
+__pycache__/
